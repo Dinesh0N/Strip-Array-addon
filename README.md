@@ -1,6 +1,7 @@
 # Strip-Array-addon
 Blender addon for Array of duplicated strips, customizable, Strips Display 
 
+[![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 <div>
     <a href="#table"><img alt="Blender"
