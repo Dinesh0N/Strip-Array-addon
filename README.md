@@ -2,7 +2,7 @@
 Blender addon for Array of duplicated strips, customizable, Strips Display 
 
 
-<div align="center">
+<div>
     <a href="#table"><img alt="Blender"
             src="https://img.shields.io/badge/awesome-gray?logo=blender&style=flat-square" /></a>
 
