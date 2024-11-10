@@ -1,0 +1,12 @@
+schema_version = "1.0.0"
+id = "strip_array"
+name = "Strip Array"
+version = "1.0.2"
+tagline = "Array of duplicated strips, Customizable, Strips Display"
+maintainer = "Dinesh"
+type = "add-on"
+tags = ["Sequencer"]
+blender_version_min = "4.3.0"
+license = ["SPDX:GPL-3.0-or-later"]
+website = "https://projects.blender.org/extensions/sequencer_strip_array"
+copyright = ["2024 Dinesh"]
