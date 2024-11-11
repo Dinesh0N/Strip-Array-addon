@@ -13,7 +13,7 @@ Blender addon for Array of duplicated strips, customizable, Strips Display
 
 The `Strip Array` addon for Blender's Video Sequence Editor (VSE) provides a powerful and intuitive way to create arrays of duplicated strips with customizable options. This addon streamlines the process of duplicating selected video, image, sound, or effect strips while providing enhanced control over their arrangement. 
 
-![ui v2](https://github.com/user-attachments/assets/e82ec1b0-cb64-4a11-967b-c4a944ff1a84)
+![ui v2](https://github.com/user-attachments/assets/e4d7af92-76d7-4126-a4ab-823ac5c7ee7b)
 
 
 ## Key Features:
