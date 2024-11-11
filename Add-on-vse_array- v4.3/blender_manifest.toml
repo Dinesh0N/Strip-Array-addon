@@ -8,5 +8,5 @@ type = "add-on"
 tags = ["Sequencer"]
 blender_version_min = "4.3.0"
 license = ["SPDX:GPL-3.0-or-later"]
-website = "https://projects.blender.org/extensions/sequencer_strip_array"
+website = "https://extensions.blender.org/add-ons/strip-array/"
 copyright = ["2024 Dinesh"]
